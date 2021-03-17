@@ -4,3 +4,6 @@
 
 ## Members
 - Steve Simmons
+- Carlo Santos
+- Jaycie McBrayer
+- Warren Murray
