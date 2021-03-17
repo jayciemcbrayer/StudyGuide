@@ -4,4 +4,5 @@
 
 ## Members
 - Carlo Santos
+- Jaycie McBrayer
 - Warren Murray
