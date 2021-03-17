@@ -4,3 +4,4 @@
 
 ## Members
 - Carlo Santos
+- Jaycie McBrayer
