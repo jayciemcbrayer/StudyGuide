@@ -1,3 +1,35 @@
 body {
-  background-color: red;
+  background-color: rgb(163, 235, 217);
+  background-image: url("https://previews.123rf.com/images/milavas/milavas1803/milavas180300024/97904576-a-seamless-pattern-with-monstera-leaves-background-with-with-leaves-of-tropical-plants-vector-illust.jpg");
+}
+
+#container {
+  color: white;
+  background: plum;
+  width: 100%;
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.right-col {
+  float: right;
+}
+
+.left-col {
+  float: left;
+}
+
+#facts {
+  color: rgb(28, 109, 40);
+  contain: content;
+  background-color: white;
+  width: 50%;
+  font-size: large;
+  margin: auto;
+}
+
+.river {
+  margin: auto;
 }
