@@ -1,0 +1,107 @@
+body {
+  background-color: rgb(182, 181, 181);
+  margin: 0 auto;
+  font-family: arial, sans-serif;
+  background-image: url("https://c0.wallpaperflare.com/preview/300/745/186/gradient-sky-moon-sunset.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  background-color: rgb(11, 6, 65);
+  width: 100%;
+  height: 60px;
+}
+
+nav {
+  float: right;
+  margin-right: 40px;
+}
+
+nav ul {
+  height: 60px;
+  margin: 0 auto;
+  padding-top: 0;
+}
+
+nav li {
+  color: white;
+  display: inline-block;
+  margin: 0;
+  padding: 20px 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:nth-child(last) {
+  color: white;
+  margin: 0 20px;
+}
+
+nav li:hover {
+  color: rgb(11, 6, 65);
+  background-color: chocolate;
+  text-decoration: none;
+}
+
+.active {
+  color: rgb(11, 6, 65);
+  background-color: chocolate;
+  padding: 22px 30px;
+}
+
+/******End of NAVBAR********/
+
+img {
+  text-align: center;
+  border-radius: 2px;
+  max-height: 100px;
+  display: inline-block;
+}
+
+h1 {
+  margin: 40px 30px;
+  color: lightgray;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
+
+h2:nth-child(1) {
+  margin-bottom: 30px;
+  margin-top: 60px;
+}
+
+section {
+  text-align: center;
+  margin: 10px 20px;
+}
+
+.col-sm-6 {
+  box-shadow: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.list {
+  padding-top: 20px;
+  width: 200px;
+  margin: 0 auto;
+  padding-bottom: 100px;
+}
+
+ol {
+  margin-bottom: 100px;
+}
+
+#first,
+#second {
+  background-color: white;
+}
+
+#test {
+  color: white;
+}
