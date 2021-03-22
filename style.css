@@ -33,3 +33,26 @@ body {
 .river {
   margin: auto;
 }
+
+li {
+  display: inline;
+  float: left;
+  
+}
+
+ul {
+  margin: 0%;
+  padding: 0%;
+  overflow: auto;
+  background-color: rgba(255, 255, 255, 0.728);
+}
+
+a {
+  display: block;
+  padding: 8px;
+
+}
+
+#background {
+
+}
